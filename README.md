@@ -4,7 +4,7 @@ Contact Form with AWS API Gateway, Lambda, and SES
 This project demonstrates how to create a contact form that sends an
 email using AWS services: API Gateway, Lambda, and Amazon SES.
 
-Architecture Overview
+# Architecture Overview
 
 1.  Contact Form (Frontend)
     Users fill in a contact form on a website and submit their details.
@@ -20,9 +20,8 @@ Architecture Overview
     Sends the email to the recipient. In sandbox mode, only verified
     sender and recipient email addresses can be used.
 
-------------------------------------------------------------------------
 
-Setup Instructions
+# Setup Instructions
 
 1. Verify Emails in SES
 
@@ -45,7 +44,7 @@ Setup Instructions
 -   Your contact form should submit data to the API Gateway endpoint
     (POST).
 
-Notes
+# Notes
 
 -   SES Sandbox Mode: You must verify both the sender and recipient
     emails.
