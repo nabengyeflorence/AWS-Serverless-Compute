@@ -1,6 +1,7 @@
 # AWS-Serverless-Compute
 Contact Form with AWS API Gateway, Lambda, and SES
-
+![Alt text](Room3 Contact Form Architecture.jpg)
+# Project Overview
 This project demonstrates how to create a contact form that sends an
 email using AWS services: API Gateway, Lambda, and Amazon SES.
 
